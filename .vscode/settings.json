@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "webserver_watcher/lib/mockito-core-5.10.0.jar"
+    ]
+}
